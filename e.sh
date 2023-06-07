@@ -1,2 +1,3 @@
 newFile
 update
+Mixed
