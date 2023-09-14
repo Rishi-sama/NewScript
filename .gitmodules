@@ -1,0 +1,3 @@
+[submodule "pthon-hello"]
+	path = pthon-hello
+	url = https://github.com/Rishi-sama/pthon-hello.git
