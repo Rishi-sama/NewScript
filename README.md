@@ -1,3 +1,4 @@
 # NewScript
 
 #New script
+new
